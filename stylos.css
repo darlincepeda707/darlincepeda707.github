@@ -1,0 +1,26 @@
+html{
+	background:#212F3D;
+}
+
+
+
+body{
+
+	margin:50px;
+	border: solid 1px black;
+	padding:20px;
+	background:white;
+	
+}
+
+#divBotones {
+	text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 40px;
+    border: 2px solid #2c3e50;
+    color: #fff;
+    text-decoration: none;
+    background:#2c3e50;
+	
+}
